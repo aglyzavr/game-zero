@@ -1,2 +1,2 @@
 # game-zero
-Our first project as a team of sea dogs
+Our first project as a sea dogs team
