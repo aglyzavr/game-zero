@@ -1,0 +1,85 @@
+# This .gitignore file is specifically for Unity projects.
+
+# === Temporary files and folders ===
+Temp/
+Obj/
+UnityGenerated/
+Build/
+Builds/
+Library/
+Logs/
+MemoryCaptures/
+AssetBundleBrowser/
+
+# === Auto-generated VS/MD/Consulo solution and project files ===
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# === Unity3D generated meta files ===
+*.pidb.meta
+
+# === Unity3D generated file on crash reports ===
+sysinfo.txt
+
+# === Builds ===
+*.apk
+*.aab
+*.unitypackage
+
+# === OS generated files ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# === JetBrains Rider ===
+.idea/
+*.sln.iml
+
+# === Visual Studio Code ===
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/*.code-workspace
+
+# === npm ===
+node_modules/
+yarn.lock
+package-lock.json
+
+# === TextMeshPro ===
+TextMeshPro/
+TextMeshPro/Resources/
+
+# === Additional folders to ignore ===
+/[Tt]emp
+/[Oo]bj
+/[Bb]uild
+/[Bb]uilds
+/[Ll]ibrary
+/[Ll]ogs
+/[Mm]emoryCaptures
+/Assets/AssetStoreTools
+/Assets/StreamingAssets
+
+# === Collaborate ===
+.collab/
